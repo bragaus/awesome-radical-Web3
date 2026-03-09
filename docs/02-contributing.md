@@ -1,3 +1,6 @@
+## abrir uma awesome em cima do uue ja ta aberto
+Xephyr :5 & sleep 1 ; DISPLAY=:5 awesome
+
 # Contributing
 
 ## Bugs
